@@ -15,8 +15,8 @@ mkdir packages && cd packages && git clone https://github.com/rodolphe37/cra-tem
 
 ```
 after that, go to :
-- "[How to personnalise yours application GithubMyProfile](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md)"
-- [or this address :](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)
+- "[How to personnalise yours application GithubMyProfile at my cra-template repo](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md)"
+- [or at my GithubMyProfile repo :](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)
 
 For more information, please refer to:
 - [For Personnalisation tutorial](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md) How to personnalise your application GithubMyProfile
