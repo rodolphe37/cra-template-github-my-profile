@@ -1,0 +1,418 @@
+.App {
+  text-align: center;
+}
+.navbar-expand .navbar-nav {
+  flex-direction: row;
+  margin-left: -25%;
+  font-size: 24px;
+}
+.navbar a {
+  color: #ffffff;
+}
+.navbar a:hover {
+  color: #ddd;
+}
+.rounded-img{
+  max-width: 50%;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.footer-content, .socials {
+  display: flex;
+}
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 48%;
+}
+
+.codepen-link {
+  margin-left: 5px;
+}
+
+.titl {
+  font-size: 12px;
+}
+
+.link-footer {
+  font-size: 14px;
+}
+
+.school-img {
+  width: 3%;
+}
+
+.octicon {
+  max-width: 25%;
+  margin-left: -53%;
+  margin-top: 12px;
+}
+
+.brand {
+  font-size: 110% !important;
+  margin-left: 15px;
+}
+
+.linear-gradient {
+  background: linear-gradient(180deg, rgb(196, 196, 201), rgb(255,255,255));
+}
+
+.bg-primary {
+  max-height: 96px;
+}
+
+.bio {
+  padding-left: 143px;
+  padding-right: 157px;
+}
+.appear {
+  display: none;
+}
+
+.tools {
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.uncontrol-nav {
+  position: absolute;
+}
+.dropdown, .dropleft, .dropright, .dropup {
+  position: relative;
+  background: rgb(196, 196, 201) !important;
+  list-style: none;
+}
+.dropdown-menu.show {
+  display: inline-flex;
+  margin-left: 45%;
+  margin-top: -14px;
+}
+.buttonLanguage {
+  display: inline-flex;
+  margin-left: 21%;
+}
+
+.bottom-tab-nav {
+  border-top: solid 1px #EBEBEB;
+}
+
+.nav-link,
+.bottom-nav-link {
+  color: #55575b;
+}
+
+.bottom-nav-link.active {
+  color: #922c88;
+}
+
+.bottom-tab-label {
+  font-size: 12px;
+}
+.fixed-bottom {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1030;
+  background: black;
+}
+.bottom-nav-visible {
+  display: none;
+}
+.padding-bottom-phone {
+  display: none;
+}
+.pull-requests {
+  display: inline-block;
+  margin-top: 25px;
+  /* margin-left: 382px; */
+  margin-left: 22%;
+  margin-right: 22%;
+}
+.perso-stats {
+  margin-left: 10%;
+  margin-top: 3%;
+}
+.perso-stats2  {
+  margin-right: 15%;
+}
+
+.card-about {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: inherit !important;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  /* border: 1px solid rgba(0,0,0,.125); */
+  border-radius: .25rem;
+}
+
+
+@media (min-width:280px) and (max-width:650px) {
+
+  .navbar-nav {
+    margin-left: -6% !important;
+    font-size: 11px !important;
+    font-weight: 600;
+  }
+  .appear {
+    display: inherit;
+  }
+  .title-sup {
+    font-size: 10px;
+  }
+  .hidden768{
+    display: none;
+  }
+  .school-img {
+    width: 6% !important;
+  }
+  .hidden-frame{
+    display: none;
+  }
+  a.brand.navbar-brand {
+    margin-left: 26%!important;
+  }
+  .sup-chart {
+    width: 80%;
+  }
+  .card {
+    width: 39% !important;
+    margin-top: 20px;
+    flex-direction: column !important;
+  }
+}
+
+
+@media (width:320px) {
+  .w-100 {
+    font-size: 12px;
+}
+}
+@media (max-width:325px) {
+  .perso-stats {
+    /* margin-left: -4%;
+    margin-top: 3%; */
+    width: 290px;
+  }
+}
+@media (width:375px) {
+  .perso-stats {
+    width: 346px;
+    margin-left: 3% !important;
+}
+}
+@media (min-width:411px) and (max-width:414px) {
+  .perso-stats {
+    width: 364px !important;
+    margin-right: 13% !important;
+  }
+  .perso-stats2 {
+    margin-right: 13% !important;
+  }
+}
+@media(width:360px) {
+  .perso-stats {
+    width: 317px !important;
+    margin-left: 3% !important;
+  }
+}
+@media (width:540px){
+  .perso-stats {
+    margin-left: 22% !important;
+    width: 380px;
+  }
+  .perso-stats2 {
+    margin-right: 22% !important;
+  }
+}
+
+@media (max-width: 414px) and (min-width: 411px){
+.perso-stats {
+    width: 364px !important;
+    margin-left: 11% !important;
+  }
+}
+
+@media (min-width:540px) and (max-width:767px) {
+  .perso-stats {
+    margin-left: 14%;
+  }
+  .perso-stats2 {
+    margin-right: 25%;
+  }
+}
+
+
+@media (min-widht:649px) and (max-width:840px) {
+  .appear {
+    display: inherit;
+  }
+  .title-sup {
+    font-size: 10px;
+  }
+  .navbar {
+    width: 107%;
+  }
+  .navbar-nav {
+    margin-left: 0%;
+    font-size: 18px !important;
+    font-weight: 600;
+  }
+  .perso-stats {
+    width:425px
+  }
+}
+
+@media (max-width: 840px) {
+  .hidden{
+    display: none;
+  }
+  .bio {
+    padding-left: 15px;
+    padding-right: 15px
+  }
+  .brand {
+    font-size: 105%;
+    margin-left: 9px;
+  }
+  .dropdown-menu.show {
+    display: inline-flex;
+    margin-left: 26%;
+    margin-top: -13px;
+  }
+  .hidden-phone {
+    display: none !important;
+  }
+  .bottom-nav-visible {
+    display: inherit;
+    position: fixed;
+    z-index: 1540;
+  }
+  .footer {
+    padding-bottom: 40px;
+  }
+  .fixed-bottom {
+    max-height: fit-content;
+  }
+  .padding-bottom-phone {
+    display: inherit;
+  }
+  .pull-requests {
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: inherit;
+    margin-right: inherit;
+  }
+  .perso-stats {
+    margin-left: 7%;
+    margin-top: 3%;
+  }
+  .perso-stats2  {
+    margin-right: 8%;
+  }
+  .octicon {
+    max-width: 74%;
+    align-items: flex-start;
+    margin-left: -27%
+  }
+
+}
+@media (min-width:768px) and (max-width:1020px) {
+  .perso-stats {
+    margin-top: 3% !important;
+    margin-left: 57px;
+  }
+  .perso-stats2 {
+    margin-right: 5%;
+    margin-top: -29%;
+  }
+  .octicon {
+    max-width: 32%;
+    align-items: flex-start;
+    margin-left: -6%;
+  }
+  .mr-auto.hidden-phone.navbar-nav {
+    width: 108%;
+  }
+  .card {
+    width: 19% !important;
+    flex-direction: column !important;
+  }
+
+.card-header {
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+
+}
+
+@media (min-width:802px) and (max-width:1020px) {
+  .perso-stats2 {
+    margin-top: 0 !important;
+  }
+  .octicon {
+    margin-left: -63%;
+}
+}
+@media (min-width:1020px) and (max-width:1021px) {
+  .navbar-expand .navbar-nav {
+    margin-right: 0 !important;
+    /* margin-left: -45%; */
+    font-size: 25px;
+  }
+  .perso-stats {
+    margin-left: 1%;
+    margin-top: 3%;
+  }
+  .perso-stats2 {
+    margin-right: 7%;
+}
+}
+
+@media (min-width:1022px) and (max-width:1152px) {
+  .perso-stats {
+    margin-left: 6%;
+  }
+  .mr-auto.hidden-phone.navbar-nav {
+    width: 83%;
+  }
+
+  .card {
+  width: 14%;
+  padding-top: 15px;
+  flex-direction: column !important;
+  }
+}
+@media (width:1154px) {
+  .card {
+    width: 17% !important;
+  }
+}
+
+@media (min-widht:1440px) and (max-width:1439px) {
+  .perso-stats2 {
+    margin-right: 23%;
+}
+}
+@media (min-width:1440px) and (max-width:1920px) {
+  .perso-stats {
+    margin-left: 21%;
+    margin-top: 3%;
+  }
+  /* .perso-stats2 {
+    margin-right: 28%;
+  } */
+  .card {
+    width: 13.8% !important;
+  }
+}
