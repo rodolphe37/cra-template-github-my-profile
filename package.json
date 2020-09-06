@@ -1,8 +1,8 @@
 {
   "name": "cra-template-github-my-profile",
   "version": "1.4.1",
-  "license": "CC BY-NC-SA",
-  "author": "Rodolphe Augusto <rodolphe.a@gmail.com",
+  "license": "MIT",
+  "author": "Rodolphe Augusto",
   "engines": {
     "node": ">=10"
   },
@@ -25,10 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-github-my-profile"
+    "url": "git+https://github.com/rodolphe37/-cra-template-github-my-profile.git",
+    "directory": "/"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
-  }
+    "url": "https://github.com/rodolphe37/-cra-template-github-my-profile/issues"
+  },
+  "homepage": "https://github.com/rodolphe37/-cra-template-github-my-profile#readme"
 }
