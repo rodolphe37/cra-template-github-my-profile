@@ -2,16 +2,28 @@
 
 This is the official Github My Profile app template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template github-my-profile` when creating a new app.
+To use this template when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template github-my-profile
+
+# Clone the repo
+git clone https://github.com/rodolphe37/cra-template-github-my-profile.git
+
+# Copy the template into the current directory
+cp -r create-react-app/packages/cra-template .
+
+# Clean up after ourselves
+rm -rf create-react-app
+
+# do
+npx create-react-app-custom your-custom-app-name
 
 # or
 
-yarn create react-app my-app --template github-my-profile
+yarn create-react-app-custom your-custom-app-name
+
 ```
 
 For more information, please refer to:
