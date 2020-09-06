@@ -58,7 +58,7 @@ after that, go to :
 - [For Personnalisation tutorial](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md) How to personnalise your application GithubMyProfile
 
 For more information, please refer to:
-- "[GithubMyProfile application](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)"
+- "[GithubMyProfile application](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)" The official repository of the open source project
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
 - [Tutorial](https://medium.com/@alexgrischuk/how-to-create-custom-create-react-app-cra-templates-73a5196edeb) – How to create custom Create React App (CRA) templates
