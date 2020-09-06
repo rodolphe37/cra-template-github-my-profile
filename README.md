@@ -22,8 +22,10 @@ Put your app name in this line, at  ``` <YOUR NAME HERE> ``` and that's all!
 mkdir packages && cd packages && git clone https://github.com/rodolphe37/cra-template-github-my-profile.git && cd .. && npx create-react-app <YOUR APP NAME HERE> --template file:./packages/cra-template-github-my-profile && rm -rf packages
 
 ```
-
+# part 1 movie installation
 ![!install1](demo/install1.gif)
+
+# part2 movie installation
 ![!install2](demo/install2.gif)
 
 
