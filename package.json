@@ -25,11 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodolphe37/-cra-template-github-my-profile.git",
+    "url": "git+https://github.com/rodolphe37/cra-template-github-my-profile.git",
     "directory": "/"
   },
   "bugs": {
-    "url": "https://github.com/rodolphe37/-cra-template-github-my-profile/issues"
+    "url": "https://github.com/rodolphe37/cra-template-github-my-profile/issues"
   },
-  "homepage": "https://github.com/rodolphe37/-cra-template-github-my-profile#readme"
+  "homepage": "https://github.com/rodolphe37/cra-template-github-my-profile#readme"
 }
