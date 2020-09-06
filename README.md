@@ -41,7 +41,7 @@ To use this template when creating a new app it's really easy.
 ![!install-step3](demo/install-script3.jpg)
 
 ***after that, go to :***
-- "[How to personnalise yours application GithubMyProfile](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
+- "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
 
 ***Solution 2***
 
@@ -55,7 +55,7 @@ mkdir packages && cd packages && git clone https://github.com/rodolphe37/cra-tem
 ```
 
 after that, go to :
-- "[How to personnalise yours application GithubMyProfile](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)
+- "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)
 
 For more information, please refer to:
 - "[GithubMyProfile application](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)" The official repository of the open source project
