@@ -20,6 +20,10 @@ then hit the enter key to continue the installation
 
 <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_app_install.zip?raw=true">Download the zip file here</a>
 
+![!install-step1](demo/install-script1.jpg)
+![!install-step2](demo/install-script2.jpg)
+![!install-step3](demo/install-script3jpg)
+
 ***Solution 2***
 
 Put your app name in this line, at  ``` <YOUR NAME HERE> ``` and that's all!
@@ -30,12 +34,6 @@ Put your app name in this line, at  ``` <YOUR NAME HERE> ``` and that's all!
 mkdir packages && cd packages && git clone https://github.com/rodolphe37/cra-template-github-my-profile.git && cd .. && npx create-react-app <YOUR APP NAME HERE> --template file:./packages/cra-template-github-my-profile && rm -rf packages
 
 ```
-# part 1 movie installation
-![!install1](demo/install1.gif)
-
-# part2 movie installation
-![!install2](demo/install2.gif)
-
 
 after that, go to :
 - "[How to personnalise yours application GithubMyProfile at my cra-template repo](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
