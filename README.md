@@ -1,6 +1,11 @@
+[![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
+---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a1a0b3f-9542-4602-b572-d6fd9d600a17/deploy-status)](https://app.netlify.com/sites/my-github-pwa/deploys)
+[![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20PWA%20My%20Github%20at)](https://progressiveapp.store/pwa/PWA-My-Github)
+
 # cra-template-github-my-profile
 
-This is the official Github My Profile app template for [Create React App](https://github.com/facebook/create-react-app).
+This is the GithubMyProfile app template for [Create React App](https://github.com/facebook/create-react-app).
 
 To use this template when creating a new app it's really easy.
 
