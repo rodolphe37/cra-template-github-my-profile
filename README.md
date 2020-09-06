@@ -22,7 +22,7 @@ then hit the enter key to continue the installation
 
 ![!install-step1](demo/install-script1.jpg)
 ![!install-step2](demo/install-script2.jpg)
-![!install-step3](demo/install-script3jpg)
+![!install-step3](demo/install-script3.jpg)
 
 ***Solution 2***
 
