@@ -22,6 +22,11 @@ Put your app name in this line, at  ``` <YOUR NAME HERE> ``` and that's all!
 mkdir packages && cd packages && git clone https://github.com/rodolphe37/cra-template-github-my-profile.git && cd .. && npx create-react-app <YOUR APP NAME HERE> --template file:./packages/cra-template-github-my-profile && rm -rf packages
 
 ```
+
+![!install1](demo/install1.gif)
+![!install2](demo/install2.gif)
+
+
 after that, go to :
 - "[How to personnalise yours application GithubMyProfile at my cra-template repo](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md)"
 - [or at my GithubMyProfile repo :](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)
