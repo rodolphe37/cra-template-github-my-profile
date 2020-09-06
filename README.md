@@ -19,11 +19,17 @@ To use this template when creating a new app it's really easy.
 **🌟🌟The best & fastest solution🌟🌟**
 
 **🚩Important, the console must be open in the folder where you want to install the application🚩**
+
 ✅Download and unzip my automatic installation script
+
 ✅open your console, then drag and drop the bash file into the console,
+
 ✅finally hit the enter key to start the installation.
+
 ✅afterwards, you just have to put the name of your application when asked,
+
 ✅then press Enter key to continue installation
+
 
 <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_app_install.zip?raw=true">👉 Download the zip file here 👈</a>
 
