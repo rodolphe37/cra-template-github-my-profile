@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodolphe37/cra-template-github-my-profile",
+    "url": "git://github.com/rodolphe37/cra-template-github-my-profile.git",
     "directory": "/"
   },
   "bugs": {
