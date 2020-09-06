@@ -15,6 +15,9 @@ To use this template when creating a new app it's really easy.
 **here's how:**
 
 ***Solution 1***
+
+🌟🌟The best fast solution🌟🌟
+
 Download and unzip my automatic installation script and simply put the name of your application when it asks you to,
 then hit the enter key to continue the installation
 
