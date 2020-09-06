@@ -5,6 +5,9 @@
 
 # cra-template-github-my-profile
 
+***Github My Profile PWA (V1.4)***
+<img align="right" height="130px" alt="rodolphe37 Github Stats" src="https://imgur.com/y5S62AN.jpg" />
+
 This is the GithubMyProfile app template for [Create React App](https://github.com/facebook/create-react-app).
 
 To use this template when creating a new app it's really easy.
