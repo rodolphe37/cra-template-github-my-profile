@@ -28,7 +28,7 @@ then hit the enter key to continue the installation
 ![!install-step3](demo/install-script3.jpg)
 
 ***after that, go to :***
-- "[How to personnalise yours application GithubMyProfile at my cra-template repo](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
+- "[How to personnalise yours application GithubMyProfile](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
 
 ***Solution 2***
 
