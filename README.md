@@ -18,7 +18,7 @@ To use this template when creating a new app it's really easy.
 
 **🌟🌟The best & fastest solution🌟🌟**
 
-**🚩Important, the console must be open in the folder where you want to install the application🚩**
+**🚩Important, the console must be opened in the folder where you want to install the application🚩**
 
 ✅Download and unzip my automatic installation script
 
