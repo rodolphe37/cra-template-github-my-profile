@@ -20,7 +20,7 @@ To use this template when creating a new app it's really easy.
 
 **🚩Important, the console must be opened in the folder where you want to install the application🚩**
 
-✅Download and unzip my automatic installation script
+✅Download and unzip my automatic installation script (❕the script can be unzipped or you wish, you can delete it once the installation is complete❕)
 
 ✅open your console, then drag and drop the bash file into the console,
 
