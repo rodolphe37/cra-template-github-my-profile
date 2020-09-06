@@ -27,6 +27,9 @@ then hit the enter key to continue the installation
 ![!install-step2](demo/install-script2.jpg)
 ![!install-step3](demo/install-script3.jpg)
 
+***after that, go to :***
+- "[How to personnalise yours application GithubMyProfile at my cra-template repo](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
+
 ***Solution 2***
 
 Put your app name in this line, at  ``` <YOUR NAME HERE> ``` and that's all!
