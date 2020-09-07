@@ -77,3 +77,20 @@ For more information, please refer to:
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
 - [Tutorial](https://medium.com/@alexgrischuk/how-to-create-custom-create-react-app-cra-templates-73a5196edeb) – How to create custom Create React App (CRA) templates
+
+
+## License
+
+Creative Commons
+
+![logoCC](demo/88x31.png)
+
+CC BY-NC-SA
+
+**Attribution - No Commercial Use - Sharing under the Same Conditions**
+
+[See the Explanatory Summary](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [See the Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+**This license allows others to remix, adapt, and build on your work for non-commercial purposes, as long as they credit you and license their new creations on the same terms.**
+
+---
