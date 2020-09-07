@@ -31,7 +31,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 ***Solution 2***
 
-**🌟🌟another fastest solution🌟🌟**
+**🌟another fastest solution**
 
 **🚩 Important, the console must be opened in the folder where you want to install the application 🚩**
 
