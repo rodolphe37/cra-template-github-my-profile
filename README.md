@@ -50,9 +50,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_app_install.zip?raw=true">👉 Download the zip file here 👈</a>
 
-![!install-step1](demo/install-script1.1.jpg)
 ![!install-step1b](demo/install-script1.jpg)
-![!install-step2](demo/install-script2.jpg)
 ![!install-step3](demo/install-script3.jpg)
 
 ***after that, go to :***
