@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-github-my-profile",
+  "name": "cra-template-github-profile",
   "version": "1.4.1",
   "license": "MIT",
   "author": "Rodolphe Augusto",
@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/rodolphe37/cra-template-github-my-profile/issues"
   },
-  "homepage": "https://github.com/rodolphe37/cra-template-github-my-profile#readme"
+  "homepage": "https://github.com/rodolphe37/cra-template-github-my-profile#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  }
 }
