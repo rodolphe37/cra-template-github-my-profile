@@ -48,10 +48,15 @@
   - [Cross-Plateform-Demo](#cross-plateform-app)
 
 
-[Start Project](#start-project)
+- [Start Project](#start-project)
 
+  - [With create-react-app](#with-create-react-app)
 
-[Customization of the application](#customization-of-the-application)
+  - [With Automatic installation script](#with-automatic-installation-script)
+
+  - [Clone this repository](#clone-this-repository)
+
+  - [Customization of the application](#customization-of-the-application)
 
 
 [Author](#author)
@@ -150,7 +155,47 @@ Link to the Media devices Demo site : https://github-my-profil-mediadevices-demo
 
 ## Start project
 
-***Fork or clone directly this repository:***
+**(you have 3 solutions)**
+
+## With create-react-app
+
+- # cra-template-github-my-profile
+
+---
+
+***First possibility (the most easy, fast and practical)***
+
+**🌟🌟The best & fastest solution**
+
+With NPM package :
+Juste type this in your console (with the name app you want)
+
+``` bash
+
+npx create-react-app <your-app-name-here> --template github-profile
+
+```
+---
+
+- # With automatic installation script
+
+***Second possibilty, (another fastest solution),***
+
+- Download and unzip my automatic installation script,
+- put the name of your application when asked, and finally,
+- press Enter key to complete the installation
+
+
+![!install-step1b](demo/install-script1.jpg)
+![!install-step3](demo/install-script3.jpg)
+
+<b>[👣 go to the React template repository to follow the installation tutorial ✌](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/README.md#solution-2)</b>
+
+---
+
+- # clone this repository
+
+***Third possibility, Fork or clone directly this repository:***
 
 ```bash
 

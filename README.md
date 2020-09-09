@@ -14,7 +14,9 @@ To use this template when creating a new app it's really easy.
 
 **here's how:**
 
-***Solution 1***
+---
+
+## Solution 1
 
 **🌟🌟The best & fastest solution**
 
@@ -29,7 +31,9 @@ npx create-react-app <your-app-name-here> --template github-profile
 ***after that, go to :***
 - "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
 
-***Solution 2***
+---
+
+## Solution 2
 
 **🌟another fastest solution**
 
@@ -56,7 +60,9 @@ npx create-react-app <your-app-name-here> --template github-profile
 ***after that, go to :***
 - "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
 
-***Solution 3***
+---
+
+## Solution 3
 
 Put your app name in this line, at  ``` <YOUR NAME HERE> ``` and that's all!
 
@@ -69,6 +75,8 @@ mkdir packages && cd packages && git clone https://github.com/rodolphe37/cra-tem
 
 after that, go to :
 - "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)
+
+---
 
 For more information, please refer to:
 - "[GithubMyProfile application](https://github.com/rodolphe37/pwa-react-project/blob/master/README.md)" The official repository of the open source project
