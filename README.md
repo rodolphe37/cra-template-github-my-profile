@@ -5,8 +5,15 @@
 
 # cra-template-github-my-profile
 
+ - What the idea :
+The idea was to create a progressive multilingual (multi-platform) web application displaying all the information necessary for a global and rapid vision of your Github account and to make it easily customizable for all developers, juniors and / or job seekers.
+Possibly, this so that he can highlight their profile in front of potential employers and, therefore, increase the number of visitors to their github page.
+
+
 ***Github My Profile PWA (V1.4)***
 <img align="right" height="130px" alt="rodolphe37 Github Stats" src="https://imgur.com/y5S62AN.jpg" />
+
+- What is it :
 
 This is the GithubMyProfile app template for [Create React App](https://github.com/facebook/create-react-app).
 
@@ -23,6 +30,7 @@ Being a PWA, it is installable under most operating systems as well as under and
 - Also, there is a list of 50 of your "created by you" and 50 "forked" repositories.
 
 To use this template when creating a new app it's really easy.
+
 
 **here's how:**
 
