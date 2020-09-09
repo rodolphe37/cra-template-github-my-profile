@@ -61,7 +61,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 ✅Download* and unzip* my automatic installation script
 
-<sup>*the script can be unzipped or you wish, you can delete it once the installation is complete ❕<sup>
+<sup>*the script can be downloaded and unzipped or you wish, you can delete it once the installation is complete ❕<sup>
 
 ✅open your console, then drag and drop the bash file into the console,
 
