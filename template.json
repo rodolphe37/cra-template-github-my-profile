@@ -29,7 +29,8 @@
       "react-scripts": "3.4.3",
       "reactstrap": "^8.5.1",
       "serve": "^11.3.2",
-      "web-push": "^3.4.4"
+      "web-push": "^3.4.4",
+      "prop-types": "^15.7.2"
     }
   }
 }
