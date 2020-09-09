@@ -10,6 +10,18 @@
 
 This is the GithubMyProfile app template for [Create React App](https://github.com/facebook/create-react-app).
 
+It is an open source multilingual (fr - en - pt) app licensed under the Creative Commons license.
+
+Being a PWA, it is installable under most operating systems as well as under android (Tested myself).
+
+ You can now have a quick view of your Github account information, such as:
+
+- Your personal stats in real time among other statistics of the most used languages ​​on the platform.
+
+- There is an "About" page and a footer that you can fully customize with your images, links, pdf, etc ...
+
+- Also, there is a list of 50 of your "created by you" and 50 "forked" repositories.
+
 To use this template when creating a new app it's really easy.
 
 **here's how:**
