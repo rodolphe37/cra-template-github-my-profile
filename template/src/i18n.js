@@ -18,12 +18,12 @@ i18n
   // for all options read: https://www.i18next.com/overview/configuration-options
   .init({
     fallbackLng: 'fr',
-    debug: true,
+    debug: false,
     whitelist: Languages,
 
     interpolation: {
-      escapeValue: false // not needed for react as it escapes by default
-    }
+      escapeValue: false, // not needed for react as it escapes by default
+    },
   });
 
 export default i18n;

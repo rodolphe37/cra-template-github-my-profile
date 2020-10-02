@@ -1,5 +1,3 @@
-/* eslint-disable react/jsx-no-bind */
-/* eslint-disable react/forbid-component-props */
 import React from 'react';
 import './App.css';
 import Home from './components/Home'
@@ -8,7 +6,7 @@ import Repositories from './components/Repositories'
 import {
   UncontrolledDropdown,
   DropdownToggle,
-  DropdownMenu
+  DropdownMenu,
 } from 'reactstrap';
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom'
 import Dashboard from './components/Dashboard';
@@ -30,6 +28,7 @@ import Navigation from './components/Navs/Navigation';
 import TopNav from './components/Navs/TopNav';
 
 function App() {
+
   const { t, i18n } = useTranslation();
 
   const changeLanguage = lng => {
