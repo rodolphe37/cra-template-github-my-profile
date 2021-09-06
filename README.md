@@ -10,7 +10,7 @@ The idea was to create a progressive multilingual (multi-platform) web applicati
 Possibly, this so that he can highlight their profile in front of potential employers and, therefore, increase the number of visitors to their github page.
 
 
-***Github My Profile PWA (V1.4)***
+***Github My Profile PWA (V2.0.0)***
 <img align="right" height="130px" alt="rodolphe37 Github Stats" src="https://imgur.com/y5S62AN.jpg" />
 
 - What is it :
