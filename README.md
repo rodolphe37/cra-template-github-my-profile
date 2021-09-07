@@ -74,11 +74,79 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_app-1.4.4_install.zip?raw=true">👉 Download the zip file here 👈</a>
 
-![!install-step1b](demo/install-script1.jpg)
-![!install-step3](demo/install-script3.jpg)
+***Installation:***
 
-***after that, go to :***
-- "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
+![!install-step1](demo/script1.png)
+
+***When the installation is done, personalization steps:***
+
+![!install-step2](demo/script2.png)
+
+***Github username:***
+
+![!install-step1](demo/script3.png)
+
+***Github avatar picture:***
+
+![!install-step1](demo/script4.png)
+
+***Porfolio logo picture link:***
+
+![!install-step1](demo/script5.png)
+
+***Portfolio name:***
+
+![!install-step1](demo/script6.png)
+
+***Picture of tools & languages used:***
+
+![!install-step1](demo/script7.png)
+
+***Picture of tools & languages used (optional):***
+
+![!install-step1](demo/script8.png)
+
+***Bio text (appear or not):***
+
+![!install-step1](demo/script9.png)
+
+***Developer links section:***
+
+![!install-step1](demo/script10.png)
+
+***Link name & link address:***
+
+![!install-step1](demo/script11.png)
+
+***Cv link (example):***
+
+![!install-step1](demo/script13.png)
+
+***Codepen link (example):***
+
+![!install-step1](demo/script14.png)
+
+***Link 4 (codesandbox for example):***
+
+![!install-step1](demo/script15.png)
+
+***Optionals illustrator link (or other) in this example I leave them empty:***
+
+![!install-step1](demo/script16.png)
+
+***End of personalization steps:***
+
+![!install-step1](demo/script17.png)
+
+### Test the App.
+
+***Do npm start in root folder***
+
+![!install-step1](demo/test/test1.png)
+
+***See the result with all infos:***
+
+![!install-step1](demo/test/test2.png)
 
 ---
 
