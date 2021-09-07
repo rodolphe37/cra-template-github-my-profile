@@ -49,7 +49,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 ```
 ***after that, go to :***
-- "[How to personnalise yours GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
+- "[How to personnalise your GithubMyProfile application](https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/template/README.md#customization-of-the-application)"
 
 ---
 
