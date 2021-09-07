@@ -393,7 +393,7 @@ echo ""
 loader .01
 
 echo ""
-echo -e "enter your name link 2 ${orange}(pdf file) CV for example here ${blanc}"
+echo -e "${color} enter your name link 2 ${orange}(pdf file) ${color}CV for example here ${blanc}"
 read pdfLink
 echo -e "${vertfonce}"
 echo -e "REACT_APP_NAME_PDF=${pdfLink}\n" >> .env.local
@@ -403,7 +403,7 @@ echo -e "${color} OK ${vertfonce}"
 # loader fast velocity
 loader .01;
 echo ""
-echo -e "enter your link 2 ${orange}(without https:// or https://www) ${blanc}"
+echo -e "${color} enter your link 2 ${orange}(without https:// or https://www) ${blanc}"
 read Link2
 echo -e "${vertfonce}"
 echo -e "REACT_APP_PDF_LINK=${Link2}\n" >> .env.local
@@ -414,7 +414,7 @@ echo -e "${color} OK ${vertfonce}"
 loader .01;
 
 echo ""
-echo -e "enter your name link 3 here ${blanc}"
+echo -e "${color} enter your name link 3 here ${blanc}"
 read nameLink3
 echo -e "${vertfonce}"
 echo -e "REACT_APP_LINK3_NAME=${nameLink3}\n" >> .env.local
@@ -424,7 +424,7 @@ echo -e "${color} OK ${vertfonce}"
 # loader fast velocity
 loader .01;
 echo ""
-echo -e "enter your link 3 here ${orange}(without https:// or https://www) ${blanc}"
+echo -e "${color} enter your link 3 here ${orange}(without https:// or https://www) ${blanc}"
 read Link3
 echo -e "${vertfonce}"
 echo -e "REACT_APP_LINK3_URL=${Link3}\n" >> .env.local
@@ -433,7 +433,7 @@ loader .01;
 echo -e "${color} OK ${vertfonce}"
 
 echo ""
-echo -e "enter your name link 4 here ${blanc}"
+echo -e "${color} enter your name link 4 here ${blanc}"
 read nameLink4
 echo -e "${vertfonce}"
 echo -e "REACT_APP_LINK4_NAME=${nameLink4}\n" >> .env.local
@@ -443,7 +443,7 @@ echo -e "${color} OK ${vertfonce}"
 # loader fast velocity
 loader .01;
 echo ""
-echo -e "enter your link 4 here ${orange}(without https:// or https://www) ${blanc}"
+echo -e "${color} enter your link 4 here ${orange}(without https:// or https://www) ${blanc}"
 read Link4
 echo -e "${vertfonce}"
 echo -e "REACT_APP_LINK4_URL=${Link4}\n" >> .env.local
@@ -461,14 +461,14 @@ echo -e "${color} if you dont put anything, then that does not appear on the scr
 # loader fast velocity
 loader .01;
 echo ""
-echo -e "enter your store address 1 here ${orange}(without https:// or https://www) ${blanc}"
+echo -e "${color} enter your store address 1 here ${orange}(without https:// or https://www) ${blanc}"
 read storeLink1
 echo -e "${vertfonce}"
 echo -e "REACT_APP_ADDRESS_STORE_1_URL=${storeLink1}\n" >> .env.local
 # loader fast velocity
 loader .01;
 echo ""
-echo -e "enter your store address 2 here ${orange}(without https:// or https://www) ${blanc}"
+echo -e "${color} enter your store address 2 here ${orange}(without https:// or https://www) ${blanc}"
 read storeLink2
 echo -e "${vertfonce}"
 echo -e "REACT_APP_ADDRESS_STORE_2_URL=${storeLink2}\n" >> .env.local
