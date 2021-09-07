@@ -36,9 +36,9 @@ To use this template when creating a new app it's really easy.
 
 ---
 
-## Solution 1
+## Solution 1 (not last vesrion)
 
-**🌟🌟The best & fastest solution**
+**🌟🌟Fastest solution**
 
 With NPM package :
 Juste type this in your console (with the name app you want)
@@ -53,9 +53,9 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 ---
 
-## Solution 2
+## Solution 2 (last version - highly recommended)
 
-**🌟another fastest solution**
+**🌟The best & fastest solution**
 
 **🚩 Important, the console must be opened in the folder where you want to install the application 🚩**
 
