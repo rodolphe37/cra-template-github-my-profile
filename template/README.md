@@ -179,7 +179,7 @@ Link to the Media devices Demo site : https://github-my-profil-mediadevices-demo
 
 ## With create-react-app
 
-- # cra-template-github-my-profile
+- # cra-template-github-my-profile (Not last version)
 
 ---
 
@@ -197,7 +197,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 ```
 ---
 
-- # With automatic installation script
+- # With automatic installation script (Last version Application)
 
 ***Second possibilty, (another fastest solution),***
 
@@ -236,7 +236,7 @@ $ npm i or $ npm install
 
 #### New - Now you can personalize your app with automatic shell script personalization
 
-#### If you dont want to use this script follw this step!
+#### If you dont want to use this script follow this step!
 
 **Rename the env.local.example file at the root of application to .env.local only and put your own values** :smirk: :
 
