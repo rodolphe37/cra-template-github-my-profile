@@ -80,6 +80,10 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 ***When the installation is done, personalization steps:***
 
+>**The script will create an .env.local file and implement all environment variables automatically as the customization steps progress!**
+>
+>Of course, if you made a typing error for example, you can modify the .env.local file manually.
+
 ![!install-step2](demo/script2.png)
 
 ***Github username:***
