@@ -52,7 +52,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 You can use the personalization script:
 
-- <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_personalization.sh?raw=true">👉 Download the Personalization script file here 👈</a>
+- <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_personalization.zip?raw=true">👉 Download the Personalization script file here 👈</a>
 
 Or doing manually personalization:
 
@@ -176,7 +176,7 @@ after that, go to :
 
 You can use the personalization script:
 
-- <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_personalization.sh?raw=true">👉 Download the Personalization script file here 👈</a>
+- <a id="raw-url" href="https://github.com/rodolphe37/cra-template-github-my-profile/blob/master/script_install/github_my_profile_personalization.zip?raw=true">👉 Download the Personalization script file here 👈</a>
 
 Or doing manually personalization:
 
