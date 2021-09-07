@@ -234,6 +234,10 @@ $ npm i or $ npm install
 
 ### Customization of the application
 
+#### New - Now you can personalize your app with automatic shell script personalization
+
+#### If you dont want to use this script follw this step!
+
 **Rename the env.local.example file at the root of application to .env.local only and put your own values** :smirk: :
 
 
