@@ -213,7 +213,7 @@ npx create-react-app <your-app-name-here> --template github-profile
 
 ---
 
-- # clone this repository
+- # clone this repository (Last version Application)
 
 ***Third possibility, Fork or clone directly this repository:***
 
